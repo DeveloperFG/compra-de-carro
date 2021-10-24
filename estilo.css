@@ -1,0 +1,27 @@
+body {
+   background-image: url(http://3.bp.blogspot.com/-LjnmKCnIx-8/VNE9thloveI/AAAAAAAANyE/YXTrdGCVfnw/s1600/Wallpaper-Ferrari-488-GTB-2016.jpg);
+    font: normal 15pt Arial; 
+    
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: snow;
+    border-radius: 18px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+    
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
